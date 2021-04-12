@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">BarcodeScanner</string>
+  <string name="barcode_value">Barcode Value: %1$s</string>
+</resources>
